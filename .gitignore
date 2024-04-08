@@ -1,0 +1,5 @@
+output
+.venv
+.idea
+debug.log
+__pycache__
