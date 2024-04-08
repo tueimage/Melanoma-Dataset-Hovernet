@@ -8,6 +8,8 @@ pip install -r requirements.txt
 # Usage
 1. Update 'run_tile.sh' with model path, input_dir and output_dir
 
+
+
 2. `hovernet_to_geojson.py` Transform HoverNet .json to .geojson usable by qupath and the metrics script
 ```
 run python hovernetjson_to_geojson.py /path/to/output
